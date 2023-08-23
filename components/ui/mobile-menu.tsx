@@ -61,18 +61,38 @@ export default function MobileMenu() {
       >
         <ul className="bg-gray-800 px-4 py-2">
           <li>
-            <Link href="/signin" className="flex font-medium w-full text-purple-600 hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
-              Sign in
+            <Link href="#home" className="flex font-medium w-full text-[#EB5161] hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
+              Home
             </Link>
           </li>
           <li>
+            <Link href="#about" className="flex font-medium w-full text-[#EB5161] hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
+              About
+            </Link>
+          </li>
+          <li>
+            <Link href="#roadmap" className="flex font-medium w-full text-[#EB5161] hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
+              Roadmap
+            </Link>
+          </li>
+          <li>
+            <Link href="https://t.me/vempireshiba" className="flex font-medium w-full text-[#EB5161] hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
+              Telegram
+            </Link>
+          </li>
+          <li>
+            <Link href="https://twitter.com/VampireShi34?t=M2th4c68Daj4Nh9q5ga1mA&s=09" className="flex font-medium w-full text-[#EB5161] hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
+              Twitter
+            </Link>
+          </li>
+          {/* <li>
             <Link
               href="/signup"
               className="font-medium w-full inline-flex items-center justify-center border border-transparent px-4 py-2 my-2 rounded-sm text-white bg-purple-600 hover:bg-purple-700 transition duration-150 ease-in-out" onClick={() => setMobileNavOpen(false)}
             >
               Sign up
             </Link>
-          </li>
+          </li> */}
         </ul>
       </nav>
     </div>
