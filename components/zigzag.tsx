@@ -13,8 +13,8 @@ export default function Zigzag() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             {/* <div className="inline-flex text-sm font-semibold py-1 px-3 m-2 text-green-600 bg-green-200 rounded-full mb-4">Reach goals that matter</div> */}
-            <h1 className="h2 mb-4">About <span className='text-[#EB5161]'>Vempire Shiba</span></h1>
-            <p className="text-xl text-gray-400">Introducing Vempire Shiba, the ultimate memecoin that combines the adorableness of the Shiba Inu with the mysterious allure of vampires. As a hybrid of two internet sensations, Vempire Shiba aims to sink its teeth into the world of decentralized finance while embracing the humor and absurdity of meme culture.</p>
+            <h1 className="h2 mb-4">About <span className='text-[#EB5161]'>Vampire Shiba</span></h1>
+            <p className="text-xl text-gray-400">Introducing Vampire Shiba, the ultimate memecoin that combines the adorableness of the Shiba Inu with the mysterious allure of vampires. As a hybrid of two internet sensations, Vampire Shiba aims to sink its teeth into the world of decentralized finance while embracing the humor and absurdity of meme culture.</p>
           </div>
 
           {/* Items */}
@@ -31,7 +31,7 @@ export default function Zigzag() {
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
                   {/* <div className="font-architects-daughter text-xl text-purple-600 mb-2">More speed. Less spend</div> */}
                   <h3 className="h3 mb-3">Shiba Vampire Fusion</h3>
-                  <p className="text-xl text-gray-400 mb-4">Inspired by the viral success of other memecoins, Vempire Shiba stands out with its unique theme of a shiba inu turned vampire, complete with fangs and a cape. The project promises a fun and engaging community experience, with holders being affectionately referred to as 'Minions of the Vempire.'</p>
+                  <p className="text-xl text-gray-400 mb-4">Inspired by the viral success of other memecoins, Vampire Shiba stands out with its unique theme of a shiba inu turned vampire, complete with fangs and a cape. The project promises a fun and engaging community experience, with holders being affectionately referred to as 'Minions of the Vampire.'</p>
                   {/* <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
                       <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
@@ -67,7 +67,7 @@ export default function Zigzag() {
                 <div className="md:pl-4 lg:pl-12 xl:pl-16">
                   {/* <div className="font-architects-daughter text-xl text-purple-600 mb-2">More speed. Less spend</div> */}
                   <h3 className="h3 mb-3">Tech Meets Meme Identity</h3>
-                  <p className="text-xl text-gray-400 mb-4">Despite its humorous exterior, Vempire Shiba takes its blockchain technology seriously. Built on a secure and efficient network, it offers holders various utility functions and rewards, such as yield farming and stake-to-earn opportunities. The coin's supply mechanics, like 'Blood Drops' and 'Bite Rewards,' create an innovative tokenomics model that keeps the community engaged and excited.</p>
+                  <p className="text-xl text-gray-400 mb-4">Despite its humorous exterior, Vampire Shiba takes its blockchain technology seriously. Built on a secure and efficient network, it offers holders various utility functions and rewards, such as yield farming and stake-to-earn opportunities. The coin's supply mechanics, like 'Blood Drops' and 'Bite Rewards,' create an innovative tokenomics model that keeps the community engaged and excited.</p>
                   {/* <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
                       <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
@@ -103,7 +103,7 @@ export default function Zigzag() {
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
                   {/* <div className="font-architects-daughter text-xl text-purple-600 mb-2">More speed. Less spend</div> */}
                   <h3 className="h3 mb-3">Utility & Tokenomics</h3>
-                  <p className="text-xl text-gray-400 mb-4">Remember, Vempire Shiba is all about having a howling good time while exploring the potential of cryptocurrencies. Join the Vempire and let your inner meme lord shine!"</p>
+                  <p className="text-xl text-gray-400 mb-4">Remember, Vampire Shiba is all about having a howling good time while exploring the potential of cryptocurrencies. Join the Vampire and let your inner meme lord shine!"</p>
                   {/* <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
                       <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">

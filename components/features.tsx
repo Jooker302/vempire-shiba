@@ -5,9 +5,9 @@ export default function Features() {
         <div className="py-12 md:py-20">
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">Vempire Shiba Roadmap</h2>
+            <h2 className="h2 mb-4">Vampire Shiba Roadmap</h2>
             <p className="text-xl text-gray-400">
-              Simplified Roadmap for Vempire Shiba Launch and Workflow
+              Simplified Roadmap for Vampire Shiba Launch and Workflow
               Understanding.
             </p>
           </div>
@@ -49,17 +49,17 @@ export default function Features() {
                   strokeWidth="2"
                 />
               </svg>
-              <h4 className="h4 mb-2">The Rise of the Vempire </h4>
+              <h4 className="h4 mb-2">The Rise of the Vampire </h4>
               <p className="text-lg text-gray-400 text-center">
-                </p><p><span className="font-bold text-[#EB5161]">Launch and Community Building :</span></p><p className="text-center">  Vempire Shiba starts with a
+                </p><p><span className="font-bold text-[#EB5161]">Launch and Community Building :</span></p><p className="text-center">  Vampire Shiba starts with a
                 bang as it's introduced to the crypto world. The community
                 rallies around the unique concept of a vampire shiba inu,
                 creating social media buzz and driving initial adoption.
-                </p><p><span className="font-bold text-[#EB5161]">Token Distribution :</span></p><p className="text-center">  The initial supply of Vempire Shiba is
+                </p><p><span className="font-bold text-[#EB5161]">Token Distribution :</span></p><p className="text-center">  The initial supply of Vampire Shiba is
                 fairly distributed through a well-planned token sale or airdrop,
                 ensuring broad ownership and minimizing early centralization.
                 </p><p><span className="font-bold text-[#EB5161]">Listings on Exchanges :
-                </span></p><p className="text-center"> Vempire Shiba gets listed on several
+                </span></p><p className="text-center"> Vampire Shiba gets listed on several
                 major exchanges, providing liquidity and accessibility to a
                 broader audience of potential holders.
               </p>
@@ -100,11 +100,11 @@ export default function Features() {
               </svg>
               <h4 className="h4 mb-2">Unleashing the Fangs</h4>
               <p className="text-lg text-gray-400 text-center">
-              </p><p><span className="font-bold text-[#EB5161]">NFT Integration :</span></p><p className="text-center"> Vempire Shiba unveils its NFT marketplace, allowing users to mint, buy, and sell unique vampire shiba-themed digital collectibles, enhancing engagement within the community.
+              </p><p><span className="font-bold text-[#EB5161]">NFT Integration :</span></p><p className="text-center"> Vampire Shiba unveils its NFT marketplace, allowing users to mint, buy, and sell unique vampire shiba-themed digital collectibles, enhancing engagement within the community.
 
               </p><p><span className="font-bold text-[#EB5161]">Partnerships and Collaborations :</span></p><p className="text-center"> The project forms partnerships with other meme and crypto projects, amplifying its reach and fostering a sense of collaboration within the space.
 
-              </p><p><span className="font-bold text-[#EB5161]">Initial Merchandising :</span></p><p className="text-center"> Vempire Shiba-branded merchandise, from t-shirts to stickers, becomes available, allowing supporters to proudly showcase their involvement in the Vempire.
+              </p><p><span className="font-bold text-[#EB5161]">Initial Merchandising :</span></p><p className="text-center"> Vampire Shiba-branded merchandise, from t-shirts to stickers, becomes available, allowing supporters to proudly showcase their involvement in the Vampire.
               </p>
             </div>
 
@@ -154,9 +154,9 @@ export default function Features() {
               </svg>
               <h4 className="h4 mb-2">The Blood Moon</h4>
               <p className="text-lg text-gray-400 text-center">
-              </p><p><span className="font-bold text-[#EB5161]">Blockchain Upgrades :</span></p><p className="text-center"> Vempire Shiba migrates to a more efficient and scalable blockchain to accommodate its growing user base and provide faster transactions at lower fees.
+              </p><p><span className="font-bold text-[#EB5161]">Blockchain Upgrades :</span></p><p className="text-center"> Vampire Shiba migrates to a more efficient and scalable blockchain to accommodate its growing user base and provide faster transactions at lower fees.
 
-              </p><p><span className="font-bold text-[#EB5161]">Yield Farming and Staking :</span></p><p className="text-center"> The project introduces yield farming pools and staking mechanisms, allowing holders to earn rewards in the form of additional Vempire Shiba tokens or other partner tokens.
+              </p><p><span className="font-bold text-[#EB5161]">Yield Farming and Staking :</span></p><p className="text-center"> The project introduces yield farming pools and staking mechanisms, allowing holders to earn rewards in the form of additional Vampire Shiba tokens or other partner tokens.
 
               </p><p><span className="font-bold text-[#EB5161]">Community Governance :</span></p><p className="text-center"> The introduction of decentralized governance enables token holders to participate in decision-making processes, ensuring a democratic and community-driven direction for the project.
               </p>
@@ -201,11 +201,11 @@ export default function Features() {
               </svg>
               <h4 className="h4 mb-2">Dominating the Crypto Night</h4>
               <p className="text-lg text-gray-400 text-center">
-              </p><p><span className="font-bold text-[#EB5161]">AI Integration :</span></p><p className="text-center"> Vempire Shiba integrates AI-driven features, such as trading insights, automated yield farming optimizations, and market trend predictions, enhancing the utility of the coin.
+              </p><p><span className="font-bold text-[#EB5161]">AI Integration :</span></p><p className="text-center"> Vampire Shiba integrates AI-driven features, such as trading insights, automated yield farming optimizations, and market trend predictions, enhancing the utility of the coin.
 
               </p><p><span className="font-bold text-[#EB5161]">Charitable Initiatives :</span></p><p className="text-center"> The project gives back to the community or supports charitable causes through donations and partnerships, showing a commitment to social responsibility.
 
-              </p><p><span className="font-bold text-[#EB5161]">Continued Expansion :</span></p><p className="text-center"> Vempire Shiba expands its reach to additional blockchain networks and ecosystems, ensuring compatibility and access to a wider range of users.
+              </p><p><span className="font-bold text-[#EB5161]">Continued Expansion :</span></p><p className="text-center"> Vampire Shiba expands its reach to additional blockchain networks and ecosystems, ensuring compatibility and access to a wider range of users.
               </p>
             </div>
 
